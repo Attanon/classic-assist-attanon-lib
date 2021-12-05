@@ -1,6 +1,6 @@
 # coding=utf-8
 
-#DorchLibrary
+#AttanonLib
 Version = "0.0.1"
 
 from Assistant import Engine
